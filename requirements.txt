@@ -1,7 +1,7 @@
 alembic==0.9.10
 asn1crypto==0.24.0
 cffi==1.11.5
-Django==1.11.4
+Django==2.2.24
 dominate==2.3.1
 flask-blueprint==1.2.2
 Flask-Bootstrap==3.3.7.1
